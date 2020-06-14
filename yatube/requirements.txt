@@ -1,0 +1,7 @@
+pytest-django==3.8.0
+pytest==5.4.1
+django==2.2.9
+Pillow
+sorl-thumbnail
+flake8
+isort
